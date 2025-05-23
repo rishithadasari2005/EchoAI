@@ -1,9 +1,6 @@
-
 # EchoAI
 
 **EchoAI** is a responsive AI chatbot designed to deliver natural, context-aware conversations. Built with flexibility in mind, it supports various applications, from customer service to interactive dialogues.
-
-![EchoAI Logo](path/to/logo.png) <!-- Replace with your logo path or remove if not applicable -->
 
 ## Features
 - **Natural Language Processing**: Understands and responds to user queries with precision.
